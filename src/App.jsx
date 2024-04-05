@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h1 style={{ color: "red" }}>Je suis le titre</h1>
+      <h2 style={{ color: "green" }}>Coucou</h2>
     </>
   );
 }
