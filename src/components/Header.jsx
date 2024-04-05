@@ -1,6 +1,8 @@
 const Header = () => {
   return (
-    <header style={{ backgroundColor: "purple" }}>Je suis le Header</header>
+    <header style={{ backgroundColor: "purple" }}>
+      Je suis le Header fait par Tom
+    </header>
   );
 };
 
